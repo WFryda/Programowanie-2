@@ -1,0 +1,7 @@
+C:\Users\Wojte\Desktop\Programowanie_Z1\Programowanie_Z1\bin\Debug\Programowanie_Z1.exe.config
+C:\Users\Wojte\Desktop\Programowanie_Z1\Programowanie_Z1\bin\Debug\Programowanie_Z1.exe
+C:\Users\Wojte\Desktop\Programowanie_Z1\Programowanie_Z1\bin\Debug\Programowanie_Z1.pdb
+C:\Users\Wojte\Desktop\Programowanie_Z1\Programowanie_Z1\obj\Debug\Programowanie_Z1.csprojAssemblyReference.cache
+C:\Users\Wojte\Desktop\Programowanie_Z1\Programowanie_Z1\obj\Debug\Programowanie_Z1.csproj.CoreCompileInputs.cache
+C:\Users\Wojte\Desktop\Programowanie_Z1\Programowanie_Z1\obj\Debug\Programowanie_Z1.exe
+C:\Users\Wojte\Desktop\Programowanie_Z1\Programowanie_Z1\obj\Debug\Programowanie_Z1.pdb
