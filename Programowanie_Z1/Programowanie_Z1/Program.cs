@@ -10,7 +10,7 @@ namespace ConsoleApp
             double wynik = 0.0;
             string rownanie;
             Mat.OdwrotnaNotacjaPolska onp = new Mat.OdwrotnaNotacjaPolska();
-            rownanie = args[0].Replace("x", args[1]);
+            rownanie=args[0].Replace("x",args[1]);
             onp.Parse(rownanie);
             Console.WriteLine(onp.ZamianaWyrazenia);
             Console.WriteLine(onp.WyrazeniePostfixowe);
@@ -36,6 +36,24 @@ namespace ConsoleApp
                 Console.WriteLine("{0} => {1}", liczby2[i], wynik);
             }
 
+            Console.WriteLine("Koniec programu");
+            Console.ReadLine();
+
+
+        }
+
+        static void Oblicz(string wyrazenie)
+        {
+            double wynik;
+            Mat.OdwrotnaNotacjaPolska onp = new Mat.OdwrotnaNotacjaPolska();
+            Console.WriteLine();
+            onp.Parse(wyrazenie);
+            wynik = onp.Ocenianie();
+            Console.WriteLine("oryginał: {0}", onp.OrygnialneWyrazenie);
+            Console.WriteLine("zamiana: {0}", onp.ZamianaWyrazenia);
+            Console.WriteLine("postfix: {0}", onp.WyrazeniePostfixowe);
+            Console.WriteLine("wynik: {0}", wynik);
+            Console.WriteLine("");
         }
     }
 }
