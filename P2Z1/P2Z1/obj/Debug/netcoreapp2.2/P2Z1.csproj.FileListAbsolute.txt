@@ -1,0 +1,11 @@
+C:\Users\Wojte\Desktop\P2Z1\P2Z1\bin\Debug\netcoreapp2.2\P2Z1.deps.json
+C:\Users\Wojte\Desktop\P2Z1\P2Z1\bin\Debug\netcoreapp2.2\P2Z1.runtimeconfig.json
+C:\Users\Wojte\Desktop\P2Z1\P2Z1\bin\Debug\netcoreapp2.2\P2Z1.runtimeconfig.dev.json
+C:\Users\Wojte\Desktop\P2Z1\P2Z1\bin\Debug\netcoreapp2.2\P2Z1.dll
+C:\Users\Wojte\Desktop\P2Z1\P2Z1\bin\Debug\netcoreapp2.2\P2Z1.pdb
+C:\Users\Wojte\Desktop\P2Z1\P2Z1\obj\Debug\netcoreapp2.2\P2Z1.csprojAssemblyReference.cache
+C:\Users\Wojte\Desktop\P2Z1\P2Z1\obj\Debug\netcoreapp2.2\P2Z1.csproj.CoreCompileInputs.cache
+C:\Users\Wojte\Desktop\P2Z1\P2Z1\obj\Debug\netcoreapp2.2\P2Z1.AssemblyInfoInputs.cache
+C:\Users\Wojte\Desktop\P2Z1\P2Z1\obj\Debug\netcoreapp2.2\P2Z1.AssemblyInfo.cs
+C:\Users\Wojte\Desktop\P2Z1\P2Z1\obj\Debug\netcoreapp2.2\P2Z1.dll
+C:\Users\Wojte\Desktop\P2Z1\P2Z1\obj\Debug\netcoreapp2.2\P2Z1.pdb
